@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Équipe
-  target: "/equipe/"
+- title: Qui som
+  target: "/team/"
   kind: page
   new_tab: false
   children: []
